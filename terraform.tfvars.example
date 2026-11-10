@@ -1,0 +1,4 @@
+project_name  = "aws-data-lake"
+environment   = "dev"
+aws_region    = "ap-south-1"
+bucket_suffix = "replace-with-unique-suffix"
